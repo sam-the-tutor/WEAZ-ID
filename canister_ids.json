@@ -1,8 +1,8 @@
 {
-  "backend": {
-    "ic": "rbtnl-3iaaa-aaaag-abtuq-cai"
+  "WEAZID": {
+    "ic": "r5xx2-miaaa-aaaag-abtwq-cai"
   },
-  "frontend": {
-    "ic": "riqgx-naaaa-aaaag-abtva-cai"
+  "WEAZID_frontend": {
+    "ic": "ruu4g-2aaaa-aaaag-abtxa-cai"
   }
 }

@@ -18,7 +18,7 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "paths": {
-      "dfx-generated/whoami": ["./.dfx/local/canisters/backend"]
+      "dfx-generated/whoami": ["./.dfx/local/canisters/WEAZID"]
     }
   },
 

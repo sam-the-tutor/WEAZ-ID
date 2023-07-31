@@ -1,6 +1,6 @@
 {
   "canisters": {
-    "backend": {
+    "WEAZID": {
       "main": "src/backend/main.mo",
       "type": "motoko",
       "declarations": {
@@ -19,12 +19,12 @@
         }
       }
     },
-    "frontend": {
+    "WEAZID_frontend": {
       "dependencies": [
-        "backend"
+        "WEAZID"
       ],
       "source": [
-        "src/frontend/dist"
+        "src/WEAZID_frontend/dist"
       ],
       "type": "assets"
     }
