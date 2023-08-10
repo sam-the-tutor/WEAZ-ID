@@ -1,5 +1,7 @@
 ## WEAZID
 
+[Live Link](https://ruu4g-2aaaa-aaaag-abtxa-cai.icp0.io/)
+
 A simple Dapp built on the Internet Computer that allows you to create and manage cycle wallets efficiently.
 
 ### Background.
