@@ -14,7 +14,7 @@ const footer = () => {
       </Typography>
       <br></br>
       <Typography >
-    <a href="https://github.com/sam-the-tutor"> <GitHubIcon/></a>
+    <a href="https://github.com/sam-the-tutor/WEAZ-ID"> <GitHubIcon/></a>
       </Typography>
     </div>
   )

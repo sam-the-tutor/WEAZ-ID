@@ -28,3 +28,11 @@ The video tutorial can be found on the dapp home page.
 
 Feel free to raise a Pull Request in case you have a feature that you want to add, or you can reach me out on my socials for discussions.
 Thank you
+{
+"WEAZID": {
+"ic": "r5xx2-miaaa-aaaag-abtwq-cai"
+},
+"WEAZID_frontend": {
+"ic": "ruu4g-2aaaa-aaaag-abtxa-cai"
+}
+}
